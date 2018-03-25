@@ -1,0 +1,1 @@
+Space Invaders game using Python and Turtle graphics. All scores and gameplay duration can be changed, comments had been set for more convinent use.
